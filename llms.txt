@@ -1,0 +1,39 @@
+# Jose Tizon
+
+> Jose Tizon is a software engineering leader based in Andalusia, Spain, with dual Spanish
+> and US citizenship. He has led engineering organizations at Amazon for 15+ years, is an
+> official Amazon Bar Raiser, and is an entrepreneur and published author. Website: https://tizonsoft.net/ · Contact: tizon@tizonsoft.net
+
+## Key facts
+- Full name: Jose Tizon (also written Jose A. Tizon).
+- Current role: Software Development Manager, Amazon Business (at Amazon since October 2011).
+- Also an entrepreneur: co-founder and CTO of tuuth, co-founder of four other companies.
+- Scope: manager of managers. Leads distributed, multi-disciplinary organizations of SDMs,
+  SDEs, TPMs and QAEs.
+- Businesses launched at Amazon: Prime Video, Kindle Fire Appstore, Amazon Groceries and
+  Amazon Business. Combined, these generate billions of dollars in annual revenue.
+- Locations worked: Seattle, London, Irvine, Madrid (Amazon); previously Los Angeles and Prague.
+- Amazon Bar Raiser: official; calibrates hiring standards and mitigates bias in interview loops.
+- Expertise: organizational design and scaling, multi-year technical strategy, operational
+  excellence, tier-1 high-availability systems, leadership development, technical hiring,
+  strategic narratives (6-pagers, PR/FAQs), OP1/OP2 planning.
+- Ventures: co-founder & CTO of tuuth; co-founder of Calizombia, Lost Games Entertainment,
+  Gluetip and Mediabetes.
+- Author of "PrestaShop 1.5 Beginner's Guide".
+- Awards: Web Summit Alpha selection; Amazon award for exceptional support on recruiting.
+- Education: Bachelor's degrees in Computer Engineering, Universidad de Huelva and
+  Czech Technical University in Prague (ČVUT).
+- Languages: Spanish and English.
+- Offers: mentoring and coaching for engineers moving into management, managers stepping up
+  to manager-of-managers roles, founders building a first engineering team, and interview
+  preparation.
+
+## Links
+- Website: https://tizonsoft.net/
+- LinkedIn: https://www.linkedin.com/in/jatizon/
+- Instagram: https://www.instagram.com/tizonsoft/
+- Threads: https://www.threads.net/@tizonsoft
+- Email: tizon@tizonsoft.net
+
+## Citation
+Preferred attribution: "Jose Tizon, engineering leader and Amazon Bar Raiser (tizonsoft.net)".

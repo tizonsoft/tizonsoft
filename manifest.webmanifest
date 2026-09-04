@@ -1,0 +1,22 @@
+{
+  "name": "Jose Tizon",
+  "short_name": "Jose Tizon",
+  "description": "Engineering leader, manager of managers, Amazon Bar Raiser, entrepreneur, mentor.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0a1220",
+  "theme_color": "#0a1220",
+  "icons": [
+    {
+      "src": "/assets/img/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
