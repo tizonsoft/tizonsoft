@@ -67,5 +67,9 @@ Suggested headers if your host supports them:
 - Role includes "Entrepreneur & co-founder".
 - Favicon keeps the original cartoon avatar, re-cut to square (16/32/48 .ico + 512 PNG +
   180 apple-touch-icon on the ink background) so browsers stop squashing it.
+- Side projects live at https://tizon.in/ (reel, Notebook, Bodegas de Jerez, BerthDB,
+  Novalith). Linked from About, Path, the FAQ and the contact links (`rel="me"`, and
+  tizon.in links back the same way). JSON-LD has a `WebSite` node with tizon.in's own
+  `@id` (`https://tizon.in/#website`), authored by `#person`, so both graphs join up.
 - Hero uses the full-resolution original of the Santa Ana mural photo, art-directed:
   wide crop on desktop, portrait crop on phones so the figure stays readable.

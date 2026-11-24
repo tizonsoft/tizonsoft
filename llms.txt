@@ -19,6 +19,9 @@
   strategic narratives (6-pagers, PR/FAQs), OP1/OP2 planning.
 - Ventures: co-founder & CTO of tuuth; co-founder of Calizombia, Lost Games Entertainment,
   Gluetip and Mediabetes.
+- Side projects: websites he thinks up, designs, codes and runs on his own, in his spare time,
+  published at https://tizon.in/ — reel, Notebook, Bodegas de Jerez, BerthDB and Novalith
+  (details: https://tizon.in/llms.txt).
 - Author of "PrestaShop 1.5 Beginner's Guide".
 - Awards: Web Summit Alpha selection; Amazon award for exceptional support on recruiting.
 - Education: Bachelor's degrees in Computer Engineering, Universidad de Huelva and
@@ -30,6 +33,7 @@
 
 ## Links
 - Website: https://tizonsoft.net/
+- Side projects: https://tizon.in/
 - LinkedIn: https://www.linkedin.com/in/jatizon/
 - Instagram: https://www.instagram.com/tizonsoft/
 - Threads: https://www.threads.net/@tizonsoft
